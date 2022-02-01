@@ -1,1 +1,31 @@
 
+body{
+  text-align:right;
+  background-image: url(img/kseniya-lapteva-hpB4uxwxBC0-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+}
+h1{
+  color:#4d1bb2;
+  border: 3px dotted green;
+}
+h2{
+  color:#8a78af;
+  border: 2px dashed blue;
+}
+h3{
+  color:#af92eb;
+  border: 6px solid yellow;
+}
+h4{
+  color:#853ecd;
+  border: 1px double grey;
+}
+h5{
+  color:#2c1742;
+  border: 3px inset darkgreen;
+}
+h6{
+  color:#260844;
+  border: outset magenta;
+}
